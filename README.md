@@ -398,6 +398,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
+- [NeoHtop](https://github.com/Abdenasser/neohtop) - A modern, cross-platform system monitor built on top of Svelte, Rust, and Tauri.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
